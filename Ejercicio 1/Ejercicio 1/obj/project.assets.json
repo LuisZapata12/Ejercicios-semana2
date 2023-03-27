@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Intel\\Desktop\\ejerciciosclase1\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
+      "projectUniqueName": "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
       "projectName": "Ejercicio 1",
-      "projectPath": "C:\\Users\\Intel\\Desktop\\ejerciciosclase1\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
+      "projectPath": "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
       "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Intel\\Desktop\\ejerciciosclase1\\Ejercicio 1\\Ejercicio 1\\obj\\",
+      "outputPath": "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
