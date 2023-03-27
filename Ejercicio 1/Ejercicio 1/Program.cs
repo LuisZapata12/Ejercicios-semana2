@@ -9,7 +9,6 @@ namespace Ejercicio_1
             float a;
             float b;
 
-
             Console.WriteLine("Inserte la altura del rectangulo");
             a = float.Parse(Console.ReadLine());
 
@@ -24,13 +23,20 @@ namespace Ejercicio_1
 
             Console.WriteLine($"Rectangulo: {rec.CalculateArea()}");
             Console.WriteLine();
-          
-            
+            //
+            Console.WriteLine("Inserte la altura del triangulo");
+            a = float.Parse(Console.ReadLine());
+            Console.WriteLine("Inserte la base del triangulo");
+            b = float.Parse(Console.ReadLine());
+
+            Console.WriteLine($"triangulo: {tri.CalculateArea()}");
 
 
 
 
-            
+
+
+
             //Console.WriteLine($"triangulo: {tri.CalculateArea()}");
 
         }
