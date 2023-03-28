@@ -9,32 +9,37 @@ namespace Ejercicio_1
             Square square = new Square(15);
             float a;
             float b;
+            string lectura;
 
-            Console.WriteLine("Inserte la altura del rectangulo");
-            a = float.Parse(Console.ReadLine());
-
-            Console.WriteLine("Inserte la base del rectangulo");
-            b = float.Parse(Console.ReadLine());
 
             Figura fig = new Figura();
-            rectangulo rec = new rectangulo(a, b);
-            triangulo tri = new triangulo(a,b);
-             
-            Console.WriteLine($"figura: {fig.CalculateArea()}");
+            rectangulo rec = new rectangulo(10,5);
+            triangulo tri = new triangulo(5, 15);
 
-            Console.WriteLine($"Rectangulo: {rec.CalculateArea()}");
-            Console.WriteLine();
 
-            Console.WriteLine($"Square: {square.CalculateArea()}");
+            Console.WriteLine("ingrese (rectangulo) si quiere saber su area");
+            Console.WriteLine("ingrese(triangulo) si quiere saber su area");
+            Console.WriteLine("ingrese(cuadrado) si quiere saber su area");
 
-            //
-            Console.WriteLine("Inserte la altura del triangulo");
-            a = float.Parse(Console.ReadLine());
-            Console.WriteLine("Inserte la base del triangulo");
-            b = float.Parse(Console.ReadLine());
+            lectura = Console.ReadLine();
 
-            Console.WriteLine($"triangulo: {tri.CalculateArea()}");
 
+            if (lectura == "rectangulo")
+            {
+                Console.WriteLine($"Rectangulo: {rec.CalculateArea()}");
+            }
+            if (lectura == "triangulo")
+            {
+                Console.WriteLine($"triangulo: {tri.CalculateArea()}");
+            }
+            if (lectura == "circulo")
+            
+            {
+                Console.WriteLine($"cuadrado : {square.CalculateArea()}");
+            }
+
+
+            Console.ReadLine();
 
 
 
