@@ -6,6 +6,7 @@ namespace Ejercicio_1
     {
         static void Main(string[] args)
         {
+            Square square = new Square(15);
             float a;
             float b;
 
@@ -23,6 +24,9 @@ namespace Ejercicio_1
 
             Console.WriteLine($"Rectangulo: {rec.CalculateArea()}");
             Console.WriteLine();
+
+            Console.WriteLine($"Square: {square.CalculateArea()}");
+
             //
             Console.WriteLine("Inserte la altura del triangulo");
             a = float.Parse(Console.ReadLine());

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj": {}
+    "D:\\Users\\JOHANN\\Documents\\GitHub\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj": {
+    "D:\\Users\\JOHANN\\Documents\\GitHub\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
+        "projectUniqueName": "D:\\Users\\JOHANN\\Documents\\GitHub\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
         "projectName": "Ejercicio 1",
-        "projectPath": "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
-        "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Intel\\Desktop\\Repo2-Prog y prod1\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\obj\\",
+        "projectPath": "D:\\Users\\JOHANN\\Documents\\GitHub\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
+        "packagesPath": "C:\\Users\\JOHANN\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\JOHANN\\Documents\\GitHub\\Ejercicios-semana2\\Ejercicio 1\\Ejercicio 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JOHANN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
